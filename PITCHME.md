@@ -2,7 +2,7 @@
 ### Squats, chapters and guilds
 
 ---
-Disclaimer
+##Disclaimer
 
 This sort organization may be already in place.
 If we are aware, we are more likely to keep it or strengthen it.
@@ -16,11 +16,10 @@ If we are aware, we are more likely to keep it or strengthen it.
 - Servant > Master |
 
 
----?image=assets/squadstribes_01.png
+---?image=assets/squadstribes_01.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
----?image=assets/squadstribes_02.png
+---?image=assets/squadstribes_02.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
----?image=assets/Docker-Security.jpg&size=auto 90%
 
 
 <!--
