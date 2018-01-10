@@ -1,8 +1,8 @@
 # Spotify-style AGILE Organization
 ### Squats, chapters and guilds
 
----
-##Disclaimer
++++
+## Disclaimer
 
 This sort organization may be already in place.
 If we are aware, we are more likely to keep it or strengthen it.
