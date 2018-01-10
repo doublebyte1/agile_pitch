@@ -1,7 +1,22 @@
 # Spotify-style AGILE Organization
 ### Squats, chapters and guilds
 
-+++?image=assets/live_entities.png&size=auto 60%
++++?image=assets/squadstribes_01.png&size=auto 60%
+
+
+
+
+
+
+
+
+
+
+Squat: small, cross-functional self organizing team
+
+
+
+
 
 ## Live 1.0
 
