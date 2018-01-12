@@ -32,7 +32,7 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 ## Squad:
 - Small, cross-functional self organizing team.
 - AGILE coach.
-- ~ tehnical.
+- ~ technical.
 - ~ SCRUM.
 
 +++?image=assets/squadstribes_04.png&size=auto 90%
@@ -43,4 +43,4 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - cross team collaboration and innovation.
 - cross-polination.
 
-+++?image=assets/squadstribes_06-750x698&size=auto 90%
++++?image=assets/squadstribes_06-750x698.png&size=auto 90%
