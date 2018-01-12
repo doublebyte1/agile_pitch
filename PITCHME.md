@@ -1,16 +1,16 @@
 # Spotify-style AGILE Organization
-### Squats, chapters and guilds
+### Squats, Chapters and Guilds
 
 +++
-## Disclaimer
+## Disclaimer:
 
-This sort organization may be already in place.
-If we are aware, we are more likely to keep it or strengthen it.
+*This sort organization may be already in place.
+If we are aware of it, we are just more likely to keep it or strengthen it.*
 
 ---
 "Rules are a good start, but then break them when need it."
 
----
++++
 - AGILE > SCRUM |
 - Principles > Practices |
 - Servant > Master |
@@ -22,6 +22,11 @@ If we are aware, we are more likely to keep it or strengthen it.
 <!-- .slide: data-background-transition="none" -->
 
 
-<!--
-Squat: small, cross-functional self organizing team
--->
++++
+## Squat:
+- Small, cross-functional self organizing team.
+- AGILE coach.
+- ~ tehnical.
+- ~ SCRUM.
+
+---?image=assets/squadstribes_04.png&size=auto 90%
