@@ -16,9 +16,13 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - Servant > Master |
 
 ---
+## Scalable:
+
++++?image=assets/squadstribes_12.png&size=auto 90%
+
+---
 ## Squad:
 
-<!-- .slide: data-background-transition="none" -->
 +++?image=assets/squadstribes_01.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
 +++?image=assets/squadstribes_02.png&size=auto 90%
@@ -32,3 +36,11 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - ~ SCRUM.
 
 +++?image=assets/squadstribes_04.png&size=auto 90%
+
+---
+## Chapter:
+- based on competences.
+- cross team collaboration and innovation.
+- cross-polination.
+
++++?image=assets/squadstribes_06-750x698&size=auto 90%
