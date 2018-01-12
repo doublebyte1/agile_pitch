@@ -34,7 +34,7 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - ~ technical.
 - ~ SCRUM.
 
-+++?image=assets/master_coach.jpg&size=auto 90%
++++?image=assets/coach_master.jpg&size=auto 90%
 
 +++?image=assets/squadstribes_04.png&size=auto 90%
 
