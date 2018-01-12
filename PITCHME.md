@@ -1,5 +1,5 @@
 # Spotify-style AGILE Organization
-### Squats, Chapters and Guilds
+### Squads, Chapters and Guilds
 
 +++
 ## Disclaimer:
@@ -15,14 +15,15 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - Principles > Practices |
 - Servant > Master |
 
----?image=assets/squadstribes_01.png
+---
+## Squad:
+
++++?image=assets/squadstribes_01.png
 <!-- .slide: data-background-transition="none" -->
----?image=assets/squadstribes_02.png
++++?image=assets/squadstribes_02.png
 <!-- .slide: data-background-transition="none" -->
 
-
-+++
-## Squat:
+## Squad:
 - Small, cross-functional self organizing team.
 - AGILE coach.
 - ~ tehnical.
