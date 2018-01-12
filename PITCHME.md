@@ -80,3 +80,6 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 ## In Geocat this could look like this:
 
 +++?image=assets/agile_geocat.png&size=auto 70%
+
+---
+## Comments? Ideas? :-)
