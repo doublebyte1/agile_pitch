@@ -18,11 +18,12 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 ---
 ## Squad:
 
-+++?image=assets/squadstribes_01.png
++++?image=assets/squadstribes_01.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
-+++?image=assets/squadstribes_02.png
++++?image=assets/squadstribes_02.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
 
+---
 ## Squad:
 - Small, cross-functional self organizing team.
 - AGILE coach.
