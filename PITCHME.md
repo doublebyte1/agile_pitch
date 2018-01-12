@@ -37,10 +37,10 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 
 +++
 ## Examples:
-- Live.
-- Bridge.
-- GNE.
-- tenders.
+- Live
+- Bridge
+- GNE
+- tenders
 - Website
 
 ---
@@ -51,11 +51,24 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 
 +++?image=assets/squadstribes_06-750x698.png&size=auto 90%
 
++++
+## Examples:
+- Geonetwork
+- Sales & Marketing
+- DevOps
+
 ---
 ## Guild:
 - Community built around a shared interest.
 - knowledge sharing.
-- anyone can join or leave.
+- anyone can start, join or leave.
 - communication channel.
 
 +++?image=assets/squadstribes_07.png&size=auto 90%
+
++++
+## Examples:
+- OSGeo
+- AGILE methodologies
+- Geospatial Standards
+- QGIS
