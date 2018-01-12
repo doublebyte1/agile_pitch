@@ -14,6 +14,7 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - AGILE > SCRUM |
 - Principles > Practices |
 - Servant > Master |
+- Community > Structure |
 
 ---
 ## Scalable:
@@ -39,8 +40,17 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 
 ---
 ## Chapter:
-- based on competences.
+- based on competences/skills.
 - cross team collaboration and innovation.
 - cross-polination.
 
 +++?image=assets/squadstribes_06-750x698.png&size=auto 90%
+
+---
+## Guild:
+- Community built around a shared interest.
+- knowledge sharing.
+- anyone can join or leave.
+- communication channel.
+
++++?image=assets/squadstribes_07.png&size=auto 90%
