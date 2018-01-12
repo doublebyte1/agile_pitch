@@ -65,7 +65,7 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - anyone can start, join or leave.
 - communication channel.
 
-+++?image=assets/squadstribes_07.png&size=auto 90%
++++?image=assets/squadstribes_07.png&size=auto 70%
 
 +++
 ## Examples:
