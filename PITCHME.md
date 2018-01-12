@@ -15,9 +15,8 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - Principles > Practices |
 - Servant > Master |
 
-
 ---?image=assets/squadstribes_01.png&size=auto 90%
-<!-- .slide: data-background-transition="none" -->
+.slide: data-background-transition="none"
 ---?image=assets/squadstribes_02.png&size=auto 90%
 <!-- .slide: data-background-transition="none" -->
 
