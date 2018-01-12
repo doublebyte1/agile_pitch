@@ -35,6 +35,14 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 
 +++?image=assets/squadstribes_04.png&size=auto 90%
 
++++
+## Examples:
+- Live.
+- Bridge.
+- GNE.
+- tenders.
+- Website
+
 ---
 ## Chapter:
 - based on competences/skills.
