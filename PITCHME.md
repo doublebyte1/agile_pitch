@@ -59,6 +59,7 @@ If we are aware of it, we are just more likely to keep it or strengthen it.*
 - Geonetwork
 - Sales & Marketing
 - DevOps
+- Python
 
 ---
 ## Guild:
