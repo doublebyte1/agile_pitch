@@ -8,7 +8,7 @@
 If we are aware of it, we are just more likely to keep it or strengthen it.*
 
 ---
-"Rules are a good start, but then break them when need it."
+"Rules are a good start, but then break them when need it... and create new rules"
 
 ---
 - AGILE > SCRUM |
